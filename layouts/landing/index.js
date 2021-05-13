@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Container, Call, Image, Main, About } from './styles';
+import { Container, Call, Image, Main, About } from '../../extStyles';
 
 // import landingImage from '../../assets';
 // import placeholder from '../../assets';
@@ -9,7 +9,7 @@ const Landing = () => {
   return (
     <Container>
       <Image>
-        <img src={'/ride-logo.png'} alt='Loql' cover center />
+        <img src={'/ride-logo.png'} alt='Loql' />
         <section>
           <h1>RideApp is New Orleans first on-demand economy company</h1>
           <p>
