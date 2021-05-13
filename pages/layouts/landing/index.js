@@ -19,7 +19,7 @@ const Landing = () => {
       </Image>
       <Main>
         <Call>
-          <h1>Want to drive for us?</h1>
+          <p>Want to drive for us?</p>
           <p>
             Register your driver's liscence today!{' '}
           </p>
